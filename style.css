@@ -1,0 +1,55 @@
+body {
+  margin: 20% auto;
+  background-color: #b0e0e6;
+  max-width: 452px;
+  min-height: 200px;
+}
+
+section {
+  border: 2px solid;
+  border-radius: 15px 15px 15px 15px;
+  height: 600px;
+  width: 400px;
+  background: white;
+  font-family: "Spartan", sans-serif;
+}
+.principal {
+  text-align: center;
+  line-height: 28px;
+}
+.ero {
+  border-radius: 15px 15px 0 0;
+  width: 100%;
+}
+
+.h1 {
+  font-weight: 500;
+  font-size: 1.1rem;
+}
+
+.annual {
+  background: #add8e6;
+  margin: 25px 20px;
+  padding: 10px 15px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.icon-music {
+  width: 500px;
+  margin: 10px;
+}
+
+.box {
+  background: blue;
+  margin: 5px 15px;
+  padding: 5px 10px;
+  border-radius: 10px;
+  text-align: center;
+  color: azure;
+  box-shadow: 5px 5px 3px rgb(130, 149, 230);
+}
+.order {
+  text-align: center;
+}
